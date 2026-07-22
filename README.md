@@ -1,4 +1,4 @@
-*[Български превод / Bulgarian translation](README_BG.md)*
+*[Български превод](README_BG.md) · [Пълният оригинален разговор (BG)](raw_original_conversation_bg.md)*
 # The Witness and the Co-Knowing
 
 *Notes from a conversation about consciousness, between a human and an AI — July 2026*
